@@ -4,10 +4,16 @@
 <p align="center">
 <img width="600" height="1000" alt="Dec 9, 2025, 05_09_56 PM" src="https://github.com/user-attachments/assets/cd41b328-aec2-424c-92e0-990ed63cdcb3" />
 </p>
+
 ---
 
-   <h3>🚀 About Me </h3>
-   <p>I want to make progress in <br>coding</br>.</p>
+<h3>🚀 About Me</h3>
+
+I am a Full-Stack Developer passionate about building scalable web applications and solving problems through code.<br> My experience spans front-end and back-end technologies.
+<br><br>
+🌍 Based in Kigali, Rwanda <br>
+💡 Love collaborating on open-source projects and contributing to the developer community <br>
+
 ---
 
 <h4>🛠️ Tech Stack</h4>
@@ -43,7 +49,7 @@
 
 
 ---
-<p align="center"> <em>“Dedication from a web developer.” – GiMU.</em> </p>
+<p align="center"> <em>“Dedication from a web developer.” – GIMU.</em> </p>
 
 
 
