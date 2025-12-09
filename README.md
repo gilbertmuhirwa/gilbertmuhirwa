@@ -17,29 +17,7 @@
 
 ## 🛠️ Tech Stack
 
-### **Frontend**
-- Next.js • React • TailwindCSS  
-- Zustand • Shadcn UI • TypeScript  
-- Responsive UI, animations, and UX workflows
-
-### **Backend**
-- Node.js • Express  
-- REST APIs • Authentication & role-based access  
-- MongoDB • PostgreSQL
-
-### **Blockchain & Web3**
-- Solidity  
-- Smart contracts (ERC20/721)  
-- EAS, Eez Check-In dApps  
-- IPFS decentralised storage  
-- Hardhat • Ethers.js • Metamask integrations
-
-### **Data & Analysis**
-- Stata (classification models, causal inference)  
-- Python (pandas, ML concepts)  
-- Statistical modelling, structured analysis  
-- Data-driven decision-making
-
+JavaScript TypeScript React Tailwind CSS Node.js GraphQL PostgreSQL MongoDB Firebase Docker Kubernetes AWS C# Java Python Git Postman Figma
 ---
 
 ## 🔥 Highlight Projects
