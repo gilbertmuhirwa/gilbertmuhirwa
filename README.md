@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Muhirwa Gilbert  
 ### Full-Stack Developer | Web3 Innovator | Data-Engineer & Mining-Engineer
 
-I build impactful digital solutions across **Web2**, **Web3**, **data analytics**, and **engineering systems** — especially for mining and resource industries.
+<img width="1536" height="1024" alt="Dec 9, 2025, 05_09_56 PM" src="https://github.com/user-attachments/assets/cd41b328-aec2-424c-92e0-990ed63cdcb3" />
+
 
 ---
 
 ## 🚀 About Me
 - 💻 Full-stack developer (Next.js, React, Node.js, Solidity)
-- ⛏️ Mining-tech engineering background with field internship experience  
 - 🔐 Builder of decentralized and secure applications  
 - 📊 Data & ML enthusiast (Stata, Python, analytics workflows)
 - 🏗️ Passionate about building systems that solve real industry problems  
@@ -31,25 +31,18 @@ I build impactful digital solutions across **Web2**, **Web3**, **data analytics*
 - Solidity  
 - Smart contracts (ERC20/721)  
 - EAS, Eez Check-In dApps  
-- IPFS decentralized storage  
+- IPFS decentralised storage  
 - Hardhat • Ethers.js • Metamask integrations
 
 ### **Data & Analysis**
 - Stata (classification models, causal inference)  
 - Python (pandas, ML concepts)  
-- Statistical modeling, structured analysis  
+- Statistical modelling, structured analysis  
 - Data-driven decision-making
 
 ---
 
 ## 🔥 Highlight Projects
-
-### 🩺 **Medirecord Chain**  
-A decentralized medical records system built with  
-- Ethereum smart contract  
-- Next.js frontend  
-- IPFS encrypted file storage  
-- Role-based access, doctor–patient permission model  
 
 ### 🛠️ **Mine Machinery Health Monitoring System**  
 Innovation exhibited at Rwanda Mining Week:  
@@ -61,16 +54,6 @@ Innovation exhibited at Rwanda Mining Week:
 - On-chain attendance validation  
 - Solidity smart contracts  
 - EAS (Ethereum Attestation Service) judge logic
-
-### 🛍️ **Retail Customer Churn Analysis**  
-- Customer segmentation  
-- Churn predictive modeling (theoretical)  
-- Marketing effectiveness insights  
-
-### 🌍 **ASM Tunneling Collapse Risk Assessment**  
-- Pegmatite geological analysis  
-- Environmental hazard modeling  
-- Accident dataset research (2021–2024)
 
 ---
 
@@ -93,12 +76,7 @@ Innovation exhibited at Rwanda Mining Week:
 
 ---
 
-## 🤝 Let's Collaborate
-I'm open to collaborations in:
-- Web3 decentralized solutions  
-- Next.js full-stack apps  
-- Mining tech + IoT innovations  
-- Data projects (analytics, modeling, insights)
+
 
 ---
 
