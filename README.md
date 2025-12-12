@@ -41,7 +41,7 @@ Here’s a glimpse of the tools and technologies I work with:
 
   <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/> 
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> 
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> 
 
   <!-- Tools -->
@@ -62,7 +62,7 @@ Here’s a glimpse of the tools and technologies I work with:
 
 
 ---
-<p align="center"> <em>“Dedication from a web developer.” – GIMU.</em> </p>
+<p align="center"> <em>“Don't worry, if it does not work right.” – GIMU.</em> </p>
 
 
 
