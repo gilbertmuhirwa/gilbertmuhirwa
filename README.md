@@ -1,9 +1,7 @@
-<h1 align="center"> Hello, I'm Muhirwa Gilbert👋  </h1> 
-<h3 align="center">Full-Stack Developer | Web3 Innovator | Data-Engineer & Mining-Engineer</h3>
+<h1 align="center"> Hello, I'm Muhirwa Gilbert👋</h1> 
+<h2><em><strong>Tech enthusiast</em></h2>
 
-<p align="center">
-<img width="600" height="1000" alt="Dec 9, 2025, 05_09_56 PM" src="https://github.com/user-attachments/assets/cd41b328-aec2-424c-92e0-990ed63cdcb3" />
-</p>
+<h3 align="center">Full-Stack Developer | Web3 Innovator | Data-Engineer & Mining-Engineer</h3>
 
 ---
 
@@ -62,7 +60,7 @@ Here’s a glimpse of the tools and technologies I work with:
 
 
 ---
-<p align="center"> <em>“Don't worry, if it does not work right.” – GIMU.</em> </p>
+<p align="center"> <em>“Don't worry, if it does not work right. You call it a bug, but in Silicon Valley, it's a feature” – GIMU.</em> </p>
 
 
 
