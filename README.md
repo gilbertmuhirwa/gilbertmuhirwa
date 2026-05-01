@@ -5,12 +5,9 @@
 
 ---
 
-<h3> About Me</h3>
+<h3>credible services lineup</h3>
 
-I am a Full-Stack Developer passionate about building scalable web applications and solving problems through code.<br> My experience spans front-end and back-end technologies.
-<br><br>
-🌍 I am Rwandan, and willing to work on-site and remotely. <br>
-💡 Love collaborating on open-source projects and contributing to the developer community <br>
+<img width="1440" height="3158" alt="image" src="https://github.com/user-attachments/assets/6aec2d18-6993-4251-90cb-fdf5ad414d86" />
 
 ---
 
