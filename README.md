@@ -1,7 +1,7 @@
 <h1 align="center"> Hello, I'm Muhirwa Gilbert👋</h1> 
 
 
-<h3 align="center">Full-Stack Developer | Web3 Innovator | Data-Engineer & Mining-Engineer</h3>
+<h3 align="center">Full-Stack & Blockchain Engineer | React · Node.js · Python · Solidity | Building Scalable Web3 & Backend Systems | Open to Remote Remote</h3>
 
 ---
 
