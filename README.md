@@ -1,11 +1,11 @@
 <h1 align="center"> Hello, I'm Muhirwa Gilbert👋</h1> 
-<h2 align="centre"><em><strong>Tech enthusiast</em></h2>
+<h3 align="centre"><em>Tech enthusiast</em></h3>
 
 <h3 align="center">Full-Stack Developer | Web3 Innovator | Data-Engineer & Mining-Engineer</h3>
 
 ---
 
-<h3>🚀 About Me</h3>
+<h3> About Me</h3>
 
 I am a Full-Stack Developer passionate about building scalable web applications and solving problems through code.<br> My experience spans front-end and back-end technologies.
 <br><br>
