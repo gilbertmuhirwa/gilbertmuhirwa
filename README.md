@@ -7,8 +7,119 @@
 
 <h3>credible services lineup</h3>
 
-<img width="1440" height="3158" alt="image" src="https://github.com/user-attachments/assets/6aec2d18-6993-4251-90cb-fdf5ad414d86" />
+### 🧩 1. Full-Stack Web Development
+- Build modern, responsive web applications and SaaS platforms
+- Develop RESTful APIs and dynamic frontends
 
+**Tech Stack:**  
+Next.js, React, Node.js, Express, MongoDB, PostgreSQL  
+
+**Proficiency:** █████████░ (Advanced)
+
+---
+
+### 📱 2. Mobile App Development
+- Cross-platform mobile applications
+- Integration with backend services and APIs
+
+**Tech Stack:**  
+Flutter, React Native  
+
+**Proficiency:** ███████░░░ (Intermediate)
+
+---
+
+### ⚙️ 3. Backend & System Engineering
+- API architecture (REST / GraphQL)
+- Database design and optimization
+- Scalable system design
+
+**Tech Stack:**  
+Node.js, Express, PostgreSQL, MongoDB  
+
+**Proficiency:** █████████░ (Advanced)
+
+---
+
+### 🔗 4. Integration & Automation
+- Third-party API integration (payments, authentication)
+- Workflow automation systems
+- AI-powered integrations (chatbots, LLM-based tools)
+
+**Tools & Tech:**  
+Zapier, n8n, OpenAI API, Webhooks  
+
+**Proficiency:** ████████░░ (Upper-Intermediate)
+
+---
+
+### ☁️ 5. DevOps & Deployment
+- Cloud deployment and hosting
+- CI/CD pipelines
+- Containerization and environment setup
+
+**Tools & Platforms:**  
+AWS, Vercel, Docker, GitHub Actions  
+
+**Proficiency:** ███████░░░ (Intermediate)
+
+---
+
+### 🛠️ 6. Maintenance & Optimization
+- Bug fixing and debugging
+- Code refactoring and performance tuning
+- System upgrades and monitoring
+
+**Proficiency:** █████████░ (Advanced)
+
+---
+
+### 🧠 7. Data & AI Solutions
+- Data analysis and predictive modeling
+- Customer segmentation and churn analysis
+- AI-assisted applications
+
+**Tools & Tech:**  
+Python, Stata, Machine Learning Models  
+
+**Proficiency:** ████████░░ (Upper-Intermediate)
+
+---
+
+### ⛓️ 8. Blockchain & Web3 Development
+- Smart contract development
+- Decentralized applications (dApps)
+- Secure data handling with IPFS
+
+**Tech Stack:**  
+Solidity, Ethereum, IPFS, Web3.js  
+
+**Proficiency:** ███████░░░ (Intermediate)
+
+---
+
+### 🏗️ 9. Technical Consulting & System Design
+- MVP planning and architecture design
+- Technical feasibility analysis
+- Code review and optimization strategy
+
+**Proficiency:** █████████░ (Advanced)
+
+---
+
+## 📊 Development Philosophy
+
+- Build **scalable and maintainable systems**
+- Focus on **real-world problem solving**
+- Deliver **end-to-end solutions** (Design → Build → Deploy → Maintain)
+- Emphasize **performance, security, and usability**
+
+---
+
+## 📌 Featured Projects
+- 🏥 **Medirecord Chain** – Decentralized medical records system  
+- 📊 **Retail Data Insights** – Customer churn prediction & segmentation  
+- ⛏️ **Mining Risk Assessment** – Data-driven safety analysis in ASM  
 ---
 
 <h3>🛠️ Technology and skills</h3>
