@@ -10,7 +10,7 @@
 - **Medirecord Chain** – Decentralized medical records system  
 - **Retail Data Insights** – Customer churn prediction & segmentation  
 - **Mining Risk Assessment** – Data-driven safety analysis in ASM
-- **QMS-ISO9001:2015** - A professional Quality Management System framework based on the ISO 9001:2015 standards.
+- **QMS-ISO9001:2015** - A professional QMS framework based on the ISO 9001:2015 standards.
   
 ---
 
