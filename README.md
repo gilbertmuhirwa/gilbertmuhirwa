@@ -1,7 +1,7 @@
 <h1 align="center"> Hello, I'm Muhirwa Gilbert👋</h1> 
 
 
-<h3 align="center">I'm Tech Enthusiast </h3>
+<h3 align="center">My favorite thing is a coding.</h3>
 
 ---
 
