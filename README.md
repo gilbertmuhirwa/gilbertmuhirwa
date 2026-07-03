@@ -11,6 +11,7 @@
 - **Retail Data Insights** – Customer churn prediction & segmentation  
 - **Mining Risk Assessment** – Data-driven safety analysis in ASM
 - **QMS-ISO9001:2015** - A professional QMS framework based on the ISO 9001:2015 standards.
+- **QueueCare App** - REST API (with a plain HTML/JS frontend) for managing clinic appointments
   
 ---
 
